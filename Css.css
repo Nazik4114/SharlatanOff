@@ -1,0 +1,12 @@
+.content{
+    border: 1px #DEDEDE solid;
+    box-shadow: 10px 5px 5px #DEDEDE;
+    padding: 2%;
+}
+.lbForm{
+    font-weight: 800;
+    font-size: 90%;
+}
+.text{
+    color: #6C757D;
+}
