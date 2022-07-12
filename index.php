@@ -60,7 +60,7 @@
     <button type="submit" class="btn btn-primary">Надіслати інформацію!</button>   
 <br>
 </form>
-    <?php require_once "D:\дз\PHP_DZ\SharlatanOff\Save.php" ?>
+    <?php require_once __DIR__."\Save.php" ?>
       </div>
     <div class="col-4" id="v">
     </div>
